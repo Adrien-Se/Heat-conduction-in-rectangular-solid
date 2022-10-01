@@ -1,1 +1,1 @@
-# Heat-conduction-in-rectangular-solid
+# Digital resolution of heat conduction problem
